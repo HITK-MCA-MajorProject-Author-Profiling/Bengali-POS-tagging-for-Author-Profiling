@@ -1,1 +1,2 @@
 # Bengali-POS-tagging-for-Author-Profiling
+This project focuses on developing a system to identify the author of a given Bengali poem/song. It begins by applying Part-of-Speech (POS) tagging to the text to analyze its grammatical structure. Features derived from these POS tags are then used to create "author vector" for each author's writing style. Finally, a machine learning model is trained on these author vectors to accurately predict the author of unseen poetic or song texts.
